@@ -5,23 +5,35 @@
 
 def q1():
 
-    name = Alex
+    name = "Alex"
+    print (name)
 
 def q2():
-    num1 = 3
-    num2 = 5
-    num3 = 2
-    print (num1+num2+num3)
+    num = 3
+    dum = 5
+    sum = 2
+    print (num + dum + sum)
 def q3():
+    lum = 4
+    uum = 21
 
+    print (uum // lum)
 def q4():
-
+    pum = 6.3
+    tum = 3.0
+    print (pum / tum)
 def q5():
-
+    wrld = "Hello World"
+    print (wrld)
+    wrld = "Goodbye World"
+    print (wrld)
 def q6():
-
+    value=True
+    print(value)
 def q7():
-
+    eum = 7
+    vum = 2
+    print (eum % vum)
 q1()
 q2()
 q3()
