@@ -1,11 +1,17 @@
 
 
-#Write Assignment code here
+
+
 
 def q1():
 
-def q2():
+    name = Alex
 
+def q2():
+    num1 = 3
+    num2 = 5
+    num3 = 2
+    print (num1+num2+num3)
 def q3():
 
 def q4():
