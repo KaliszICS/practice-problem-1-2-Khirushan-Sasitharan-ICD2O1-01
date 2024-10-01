@@ -28,16 +28,16 @@ def q5():
     wrld = "Goodbye World"
     print (wrld)
 def q6():
-    value=True
+    value = True
     print(value)
 def q7():
     eum = 7
     vum = 2
     print (eum % vum)
-q1()
-q2()
-q3()
-q4()
-q5()
-q6()
-q7()
+#q1()
+#q2()
+#q3()
+#q4()
+#q5()
+#q6()
+#q7()
